@@ -106,7 +106,7 @@ Pull requests are welcome! Feel free to fork the repo, open issues, or suggest i
 
 ## 📜 License
 
-This project is licensed under the **Mozilla Public License 2.0**.
+This project is licensed under the **GNU General Public License v3**.
 
 See [LICENSE](LICENSE) for details.
 
